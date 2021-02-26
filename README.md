@@ -55,7 +55,7 @@ In order to use in an HTML document, include the .less file this way, along with
     - Using JavaScript
     - Looping, branching
 
-## Sass (Suntactically Awesome StyleSheets)
+## Sass (Syntactically Awesome StyleSheets)
 - A superset of CSS - Thus all CSS files are also valid Sass files (.scss extensions).  
 __Note__: There is an older alternative Sass format with .sass extensions files - this is not a superset of CSS but has syntax similar to it.
 
